@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.home-btns{text-align: center;}
+.home-btns {max-height: .05%;
+max-width: .05%;}
+
 body {
     font-family: "Dosis", sans-serif;
 }
